@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Subject__c</fullName>
+    <label>Subject</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Algebra I</fullName>
+                <default>false</default>
+                <label>Algebra I</label>
+            </value>
+            <value>
+                <fullName>Arabic</fullName>
+                <default>false</default>
+                <label>Arabic</label>
+            </value>
+            <value>
+                <fullName>Character Education</fullName>
+                <default>false</default>
+                <label>Character Education</label>
+            </value>
+            <value>
+                <fullName>Cooking Class</fullName>
+                <default>false</default>
+                <label>Cooking Class</label>
+            </value>
+            <value>
+                <fullName>ELA</fullName>
+                <default>false</default>
+                <label>ELA</label>
+            </value>
+            <value>
+                <fullName>Fiqh</fullName>
+                <default>false</default>
+                <label>Fiqh</label>
+            </value>
+            <value>
+                <fullName>Hadith</fullName>
+                <default>false</default>
+                <label>Hadith</label>
+            </value>
+            <value>
+                <fullName>Islamic Faith/Akaid</fullName>
+                <default>false</default>
+                <label>Islamic Faith/Akaid</label>
+            </value>
+            <value>
+                <fullName>PE</fullName>
+                <default>false</default>
+                <label>PE</label>
+            </value>
+            <value>
+                <fullName>Qur&apos;an Memorization</fullName>
+                <default>false</default>
+                <label>Qur&apos;an Memorization</label>
+            </value>
+            <value>
+                <fullName>Qur&apos;an Recitation</fullName>
+                <default>false</default>
+                <label>Qur&apos;an Recitation</label>
+            </value>
+            <value>
+                <fullName>Science</fullName>
+                <default>false</default>
+                <label>Science</label>
+            </value>
+            <value>
+                <fullName>Social Studies</fullName>
+                <default>false</default>
+                <label>Social Studies</label>
+            </value>
+            <value>
+                <fullName>Tafseer</fullName>
+                <default>false</default>
+                <label>Tafseer</label>
+            </value>
+            <value>
+                <fullName>Turkce</fullName>
+                <default>false</default>
+                <label>Turkce</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>8</visibleLines>
+</CustomField>
